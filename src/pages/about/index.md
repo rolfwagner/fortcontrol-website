@@ -1,19 +1,30 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### fortControl
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+fortControl ist eine von der FortIT AG betriebener Software-as-a-Service (SaaS), mittels welche unsere Kunden ihr Security Management in ausgewählten Themenbereichen durchführen oder unterstützen können.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Unter Security Management wird ein Instrument (Organisation, Prozesse, Technologie) zur Gewährleistung der Sicherheit im gewählten Themenbereich (z.B. Cybersicherheit) verstanden.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### FortIT
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Wir ermöglichen sicheres digitales Business. Der konsequente Fokus auf den sicheren Einsatz modernster Lösungsansätze und Technologien schafft dabei die Basis für den Erfolg unserer Kunden. 
+
+<https://fort-it.ch> 
+
+### Datenschutz
+
+Sofern nicht anders angegeben, werden keine personenbezogenen Daten über die Nutzer des Webangebots erhoben.
+
+Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die meisten der von uns verwendeten Cookies sind so genannte “Session-Cookies”. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen. Über den Internetverkehr werden Logfiles geführt, welche die IP-Adressen aufzeichnen. Diese Logfiles dienen der Analyse der Nutzung der Angebote. Abgesehen von der IP-Adresse werden keine Daten erhoben, die Rückschlüsse auf die Person zulassen. Um die Funktion der interaktiven Angebote zu gewährleisten, werden Cookies zur Identifizierung von Sitzungsinformationen eingesetzt.
+
+### Impressum
+
+FortIT AG\
+Waldmannstrasse 10\
+8001 Zürich-Bellevue\
+info@fort-it.ch\
++41 58 255 09 55
